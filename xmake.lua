@@ -1,4 +1,4 @@
-set_project("openindev")
+set_project("template")
 
 set_xmakever("2.6.0")
 
